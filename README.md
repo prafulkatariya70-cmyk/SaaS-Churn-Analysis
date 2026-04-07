@@ -86,7 +86,9 @@ SaaS-Churn-Analysis/
 
 ## Dashboard Preview
 
-![Dashboard](./dashboard/dashboard.png)
+## 📊 Dashboard Preview  
+
+![Dashboard](./dashboard/churn_analysis.png)
 
 ---
 
